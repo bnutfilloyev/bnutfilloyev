@@ -1,4 +1,4 @@
-Hello, I'm Nutfilloyev Bexruz 👋
+Hello, I'm Bexruz Nutfilloyev 👋
 =======
 - 🔭 I’m currently working on Artificial intelegence, Machine Learning and Deep Learning
 - 🌱 I’m currently learning NLP, Data science, SQL, kubernetes and Quantum basic
