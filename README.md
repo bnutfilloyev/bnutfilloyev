@@ -6,6 +6,8 @@ Hello, I'm Bexruz Nutfilloyev 👋
 - 💬 Ask me about Python C/C++ and Math
 - 📫 How to reach me: mail: [Gmail](yoshlikmedia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bekhruz-nutfilloyev/) | [Telegram](t.me/yoshlik_media)
 - 😄 Pronouns: He/His
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoshlikmedia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshlikMedia&show_icons=true&theme=react )
 
