@@ -14,4 +14,4 @@ Hello, I'm Bexruz Nutfilloyev 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshlikMedia&show_icons=true&theme=react )
 
 ------------
-GitMemory: https://gitmemory.com/asakew
+GitMemory: https://gitmemory.com/yoshlikmedia
