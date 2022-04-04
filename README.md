@@ -10,7 +10,8 @@ Hello, I'm Bexruz Nutfilloyev 👋
 - 😄 Pronouns: He/His
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoshlikmedia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=yoshlikmedia&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshlikMedia&show_icons=true&theme=react )
 
 ------------
