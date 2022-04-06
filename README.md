@@ -7,7 +7,6 @@ Hello, I'm Bexruz Nutfilloyev 👋
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://github.com/yoshlikmedia)](https://www.linkedin.com/in/bekhruz-nutfilloyev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/yoshlik_media)](https://t.me/yoshlik_media)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoshlikmedia@gmail.com)](mailto:yoshlikmedia@gmail.com)
-- 😄 Pronouns: He/His
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoshlikmedia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
