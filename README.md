@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Bexruz Nutfilloyev 👋</h1>
+<h1 align="center">Hello, I'm Bekhruz Nutfilloev 👋</h1>
 
 - 🔭 I’m currently working on Artificial intelegence, Machine Learning and Deep Learning
 - 🌱 I’m currently learning NLP, Data science, SQL, kubernetes and Quantum basic
