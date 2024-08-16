@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NLP, Data science, SQL, kubernetes and Quantum basic
 - 👯 I’m looking to collaborate on Deep Learning Algorithm
 - 💬 Ask me about Python, C/C++, Python, Docker and Math
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://github.com/bnutfilloyev)](https://www.linkedin.com/in/bekhruz-nutfilloyev/)
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://github.com/bnutfilloyev)](https://www.linkedin.com/in/bnutfilloyev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bnutfilloyev)](https://t.me/bnutfilloyev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoshlikmedia@gmail.com)](mailto:bnutfilloyev@gmail.com)
 
